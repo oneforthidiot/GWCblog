@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/BlogPost.astro
+layout: ../../layouts/BlogLayout.astro
 title: "Earning Money with Crypto: Strategies for Building a Sustainable Revenue
   Stream"
 description: " With the rise of digital assets, more and more people are turning
