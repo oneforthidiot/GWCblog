@@ -8,7 +8,7 @@ const permalink = `${Astro.site.href}blog`;
 let allPosts = await Astro.glob('../../data/blog-posts/*.md');
 allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf() - new Date(a.frontmatter.publishDate).valueOf());
 ---
-
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
   <div class="container">
     <h1>Blog</h1>
