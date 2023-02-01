@@ -1,13 +1,11 @@
 ---
-<!-- layout: ../../layouts/BlogPost.astro -->
 title: "Earning Money with Crypto: Strategies for Building a Sustainable Revenue
   Stream"
 description: With the rise of digital assets, more and more people are turning
   to crypto as a way to earn money without actively trading.It's an attractive
   option for many people as it can provide a steady stream of revenue without
   the need for constant work. Read More.
-publishDate: 2023-01-31T17:09:58.921Z
-<!-- heroImage: /assets/stock-1863880_960_720-1-.jpg -->
+publishDate: 2023-01-31
 heroImage: /assets/stock-1863880_960_720-1-.jpg
 ---
 Passive income is a type of income that requires little to no active effort to maintain. It's an attractive option for many people as it can provide a steady stream of revenue without the need for constant work. One potential source of passive income is crypto, or cryptocurrency. With the rise of digital assets, more and more people are turning to crypto as a way to earn money without actively trading.
